@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="chrome://global/skin/"?>
+<?xml-stylesheet type="text/css" href="chrome://zoom-monitor-spenibus/content/overlay.css"?>
+
+<!DOCTYPE overlay>
+<overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+   <script type="application/x-javascript" src="chrome://zoom-monitor-spenibus/content/overlay.js" />
+
+   <!-- Firefox -->
+   <toolbarpalette id="BrowserToolbarPalette">
+
+      <toolbarbutton type="menu"
+                     id="spenibus_zoom_monitor_main"
+                     label="zoom monitor menu"
+                     orient="vertical"
+                     pack="center"
+                     popup="spenibus_zoom_monitor_menu">
+         <menupopup id="spenibus_zoom_monitor_menu" position="topleft bottomleft"></menupopup>
+         <label id="spenibus_zoom_monitor_label">zoom menu</label>
+      </toolbarbutton>
+
+   </toolbarpalette>
+</overlay>

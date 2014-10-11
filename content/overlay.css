@@ -1,0 +1,11 @@
+#spenibus_zoom_monitor_label {
+   font-weight:bold;
+}
+
+#spenibus_zoom_monitor_menu menuitem {
+   text-align:right;
+}
+
+#spenibus_zoom_monitor_menu menuitem.current {
+   font-weight:bold;
+}
