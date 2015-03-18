@@ -8,7 +8,7 @@
                 em:description="A simple zoom monitor"
                 em:creator="spenibus"
                 em:id="zoom-monitor@spenibus"
-                em:version="20141011-2307"
+                em:version="20150318-2206"
                 em:homepageURL="http://spenibus.net">
 
       <em:targetApplication><!-- Firefox -->
