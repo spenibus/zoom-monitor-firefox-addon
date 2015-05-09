@@ -1,4 +1,6 @@
 zoom monitor
+http://spenibus.net
+
 
 This is a firefox addon that allows the user to monitor the current zoom level.
 It appears as a toolbar button.
