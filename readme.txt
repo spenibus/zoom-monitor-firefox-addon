@@ -1,5 +1,7 @@
 zoom monitor
 http://spenibus.net
+https://github.com/spenibus/zoom-monitor-firefox-addon
+https://gitlab.com/spenibus/zoom-monitor-firefox-addon
 
 
 This is a firefox addon that allows the user to monitor the current zoom level.
